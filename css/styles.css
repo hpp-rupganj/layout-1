@@ -1,0 +1,72 @@
+.logo {
+    font-size: 32px;
+}
+nav ul li a {
+    color: black !important;
+    font-size: 24px !important;
+}
+/* banner starts */
+
+/* banner ends */
+section {
+    margin-bottom: 120px;
+}
+.about-right {
+    margin-top: 20px;
+}
+.single-packeg> h2  {
+    font-size: 36px;
+}
+.single-packeg> h3  {
+    font-size: 38px;
+}
+.single-packeg button  {
+   padding: 12px 45px;
+}
+.single-packeg >h2 {
+    line-height: .9;
+}
+.single-packeg> ul>li  {
+   list-style: none;
+}
+.single-packeg> ul>li>i  {
+   color: skyblue;
+   font-size: 20px;
+}
+.single-packeg {
+    padding: 24px 20px;
+    /* border: 3px solid red; */
+    border-radius: 24px;
+    transition: .3s;
+}
+.single-packeg:hover {
+    color: white;
+    background-color: blue;
+}
+.single-packeg:hover button {
+    background-color: white;
+    color: blue;
+}
+.single-review img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+footer {
+    background-color: green;
+}
+.footer {
+    display: flex;
+    justify-content: space-between;
+}
+.footer-right {
+    text-align: right;
+    width: 45%;
+}
+.footer-left {
+    width: 45%;
+}
+.footer > div >div >a>img {
+    width: 100px;
+    height: 100px;
+}
